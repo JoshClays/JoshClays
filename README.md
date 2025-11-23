@@ -7,7 +7,7 @@ I'm currently building experience in data analysis, software development, and ma
 
 ## 🔧 Skills & Tools
 
-- **Languages:** R, Kotlin, Dart, Java, Python (beginner)
+- **Languages:** R, Kotlin, Dart, Java, Python 
 - **Tools & Frameworks:** RStudio, Android Studio, Flutter, Git/GitHub, VS Code
 - **Strengths:** Data analysis, problem solving, clean documentation, fast learning, structured workflow
 
@@ -60,7 +60,7 @@ Android application built in **Kotlin**, following modern Android development pa
 
 ## 📫 Contact
 
-- **Email:** *your email here*  
+- **Email:** *joshcwong@gmail.com*  
 - **Location:** Sydney, Australia  
 - **GitHub:** https://github.com/JoshClays  
 
