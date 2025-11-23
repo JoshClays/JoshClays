@@ -34,7 +34,7 @@ My major capstone project involving the development of a full application suppor
 - Worked collaboratively using Git and version control  
 - Followed clean coding and project documentation practices  
 
-➡️ **Repo:** https://github.com/JoshClays/NIT3004-IT-Capstone-Project-2
+➡️ **Repo:** https://github.com/JoshClays/NIT3004-IT-Capstone-Project-2-Backup
 
 ---
 
